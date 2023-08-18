@@ -5,7 +5,7 @@ The printf function sends the formatted output to stdout. We replicating the the
 ##
 
 #### Resources
-- Secrets of printfby Don colton https://www.cypress.com/file/54761/download
+- [Secrets of printf by Don colton](https://www.cypress.com/file/54761/download)
 - Chat GPT
 - Ansi C
 - Youtube(google)
