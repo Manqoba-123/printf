@@ -6,9 +6,9 @@ The printf function sends the formatted output to stdout. We replicating the the
 
 #### Resources
 - [Secrets of printf by Don colton](https://www.cypress.com/file/54761/download)
-- Chat GPT
+- [Chat GPT](https://chat.openai.com/)
 - Ansi C
-- Youtube(google)
+- [Youtube(google)](https://www.youtube.com/)
 
 ##
 #### Compilation and installation
